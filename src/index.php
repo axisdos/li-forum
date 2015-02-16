@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-	<title>usr-title | LightForum</title>
+	<title id="usr-title">usr-title | LightForum</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="src/thirdparty/css-reset.css">
