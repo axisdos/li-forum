@@ -7,3 +7,12 @@
 function say (c) {
 	console.log(c)
 }
+/**
+ * Change the content of an element
+ * @param  {Id} i The id of the element to change
+ * @param  {String} c The content to be inserted
+ * @return {Output}   An elements content changed
+ */
+function modifyElement(i, c) {
+	document.getElementById(i).innerHTML = c;
+}
