@@ -1,0 +1,13 @@
+/*Remove default margins*/
+body, p, ul, ol, li, span {
+	margin: 0;
+}
+/*Remove padding*/
+ol, ul, li {
+	padding: 0;
+}
+
+/*Remove other*/
+ol, ul, li {
+	list-style: none;
+}
