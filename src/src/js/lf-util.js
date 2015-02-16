@@ -16,3 +16,7 @@ function say (c) {
 function modifyElement(i, c) {
 	document.getElementById(i).innerHTML = c;
 }
+
+function getData(fl, f) {
+	$.getJSON(fl, f);
+}
