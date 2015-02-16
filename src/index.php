@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <head>
 	<title></title>
+	<link rel="stylesheet" href="src/thirdparty/css-reset.css">
+	<link rel="stylesheet" href="src/css/lf-style.css">
 </head>
 <body>
 	
